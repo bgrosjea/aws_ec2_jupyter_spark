@@ -29,3 +29,6 @@ You should have 2 files: yourtag.pem and yourtag.dns. Place them in the local di
 1. Stop the notebook and execute the third setup script: `./setup3.sh`
 
 At this point PySpark should be working in jupyter notebooks. Agreeing to everything installers ask should correctly get you through the setup process.
+
+## Note
+This procedure will probably not be updated after 04/06/2020. 
